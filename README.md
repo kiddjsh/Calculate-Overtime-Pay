@@ -4,12 +4,8 @@ An application that it will prompt a user for his or her hourly pay rate; his or
 # Variable List & IPO Model
 ![Variable List & IPO Model](https://raw.githubusercontent.com/kiddjsh/Calculate-Overtime-Pay/main/images/Variable%20List%20%26%20IPO%20Model.PNG)
 
-# No Overtime - Complete Working Program
-![No Overtime - Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Calculate-Overtime-Pay/main/images/No%20Overtime%20Example.PNG)
 
-# With Overtime - Complete Working Program
-![With Overtime - Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Calculate-Overtime-Pay/main/images/Overtime%20Example.PNG)
-
+# My C# Code Solution
 ```C#
 using System;
 using System.Collections.Generic;
@@ -38,7 +34,7 @@ namespace ConsoleApp_iLabW3
             double overtimePay = 0;
             double taxAmount = 0;
             string maritalStatus = "";
-            string customer = "josh";
+            //string customer = "josh";
 
             //output greeting
             Console.ForegroundColor = ConsoleColor.Green;
@@ -113,3 +109,9 @@ namespace ConsoleApp_iLabW3
     }
 }
 ```
+
+# No Overtime - Complete Working Program
+![No Overtime - Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Calculate-Overtime-Pay/main/images/No%20Overtime%20Example.PNG)
+
+# With Overtime - Complete Working Program
+![With Overtime - Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Calculate-Overtime-Pay/main/images/Overtime%20Example.PNG)
