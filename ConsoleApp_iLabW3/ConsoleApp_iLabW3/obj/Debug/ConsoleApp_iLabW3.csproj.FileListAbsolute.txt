@@ -1,0 +1,6 @@
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_iLabW3\ConsoleApp_iLabW3\bin\Debug\ConsoleApp_iLabW3.exe.config
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_iLabW3\ConsoleApp_iLabW3\obj\Debug\ConsoleApp_iLabW3.csprojResolveAssemblyReference.cache
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_iLabW3\ConsoleApp_iLabW3\bin\Debug\ConsoleApp_iLabW3.exe
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_iLabW3\ConsoleApp_iLabW3\bin\Debug\ConsoleApp_iLabW3.pdb
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_iLabW3\ConsoleApp_iLabW3\obj\Debug\ConsoleApp_iLabW3.exe
+c:\users\kidder\documents\visual studio 2012\Projects\ConsoleApp_iLabW3\ConsoleApp_iLabW3\obj\Debug\ConsoleApp_iLabW3.pdb
